@@ -13,3 +13,8 @@ This is the beta version of alpha version (just wrote some code and played some 
 3. Have some kind of session - when the match started - create a board and just do moves, instead of creating a board every time when there is a new move
 4. Automation on FE - do not click the button each time when there is a new move from your opponent, but detect it and send a POST req to the server
 5. From fantastic genre: when received a response from server - do a move automatically without user action. By that way you just can start the game and leave your PC and go to play some real chess with a real person on a real chess board
+
+
+
+**P.S. Taldroid beats chess.com super grandmaster bot with 2900 rating** 
+![aaah.png](aaah.png)
